@@ -1,0 +1,6 @@
+cogs/__pycache__
+Dockerfile
+.gitignore
+*.md
+sample.env
+.gitignore
